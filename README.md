@@ -1,3 +1,3 @@
 # Airbnb
 
-Tableau dashboard made with an airbnb dataset.
+Tableau dashboard made with an Airbnb dataset.
